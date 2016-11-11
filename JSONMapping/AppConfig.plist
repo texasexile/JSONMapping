@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AutoLogin</key>
+	<string></string>
+	<key>AppName</key>
+	<string>BP_APP_ANALYTICS</string>
+	<key>DBName</key>
+	<string>PatientVisitsBHS</string>
+	<key>FieldMappingList</key>
+	<string>FieldMapping</string>
+	<key>ServerName</key>
+	<string>something.blupanda.com</string>
+	<key>ServiceName</key>
+	<string>PandaWS.svc/PWS</string>
+	<key>WebServiceTimeout</key>
+	<real>60</real>
+	<key>StaticDeviceToken</key>
+	<string>d57a553b4bfd8a18b8d1afbaaed5bf56d26b684c0c5d205c8138609d5c9e51a6</string>
+	<key>SyncInterval</key>
+	<integer>10</integer>
+	<key>EnableSyncTimer</key>
+	<true/>
+	<key>CCAbbreviation</key>
+	<string>CCAbbreviation</string>
+	<key>CleanDocumentDirOnStart</key>
+	<true/>
+	<key>HistoryFetch</key>
+	<false/>
+	<key>SendLoginConfirmation</key>
+	<true/>
+	<key>EnableLockScreen</key>
+	<true/>
+	<key>PinLockoutAttempts</key>
+	<integer>3</integer>
+	<key>PinLockoutDuration</key>
+	<integer>300</integer>
+	<key>PinLockoutDisableAttempts</key>
+	<integer>6</integer>
+	<key>EnableNowViewProcessLOSAverage</key>
+	<false/>
+	<key>EnableNowViewESILOSAverage</key>
+	<false/>
+	<key>LengthOfStayHistogramCutoff</key>
+	<integer>24</integer>
+	<key>EnablePush</key>
+	<true/>
+	<key>SucideScreeningName</key>
+	<string>SUICIDESCR</string>
+	<key>HomicideScreeningName</key>
+	<string>HOMICIDSCR</string>
+	<key>AVScreeningName</key>
+	<string>AVHALLSCR</string>
+	<key>POCTestScreeningName</key>
+	<string>POCTEST</string>
+	<key>ETOHScreeningName</key>
+	<string>ETOHSCR</string>
+</dict>
+</plist>
